@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Dodajemy tekst do nagłówka
     const header = document.querySelector('header');
-    header.innerHTML = '<h1>Witaj na mojej stronie!</h1>';
+    header.innerHTML = '<h1>Kocham Darke</h1>';
     
     // Dodajemy przycisk, który zmieni kolor nagłówka po kliknięciu
     const button = document.createElement('button');
